@@ -1,0 +1,4 @@
+{
+  "mochaExplorer.require": "hardhat/register",
+  "mochaExplorer.files": "test*/**/*.ts"
+}

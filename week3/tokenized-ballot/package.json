@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox-viem": "^3.0.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "hardhat": "^2.22.9",
+    "hardhat-deploy": "^0.12.4"
+  },
+  "name": "tokens2",
+  "version": "1.0.0",
+  "description": "## Quickstart with OpenZeppelin wizard",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
